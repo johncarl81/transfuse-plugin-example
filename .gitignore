@@ -1,0 +1,12 @@
+.idea
+.gradle
+*~
+*.iml
+build
+build.sh
+target
+examples/helloAndroid/gen/
+examples/integrationTest/gen/
+tmp
+out
+local.properties
